@@ -1,0 +1,16 @@
+[{"school": "Ryan International School",
+      "location": "Kharghar, Navi Mumbai",
+      "year": 2015  
+    },
+    {"school": "GreenFingers Global School",
+        "location": "Kharghar, Navi Mumbai",
+        "year": 2017 
+      },
+      {"school": "SIES Graduate School of Technology",
+        "location": "Nerul, Navi Mumbai",
+        "year": 2021
+      },
+      {"school": "Sunbeam IT Park",
+        "location": "Hinjewadi Phase 2, Pune",
+        "year": 2022
+      }]
